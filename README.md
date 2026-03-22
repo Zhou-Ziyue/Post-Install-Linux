@@ -8,6 +8,7 @@ things that I need
 - https://www.gnome-look.org/p/2106821 **Plymouth Themes**
 - https://github.com/witt-bit/applePingFangFonts **Fonts**
 - https://github.com/zquestz/plank-reloaded **Plank Reloaded**
+- https://github.com/Zhou-Ziyue/Wallpapers **Wallpapers**
 - https://www.gnome-look.org/browse?cat=135&ord=rating **GTK Themes**
 - https://liquorix.net/ **Liquorix Kernel**
 - **Arch IME** move Enironment to `/etc/` using `sudo cp -r /home/ziyue/下载/environment /etc/`
