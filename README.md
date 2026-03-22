@@ -2,7 +2,7 @@
 ### MY favourite linux configurations
 things that I need
 - [**COSMIC Icons**](https://www.opendesktop.org/p/2352993)
-- https://www.gnome-look.org/browse?cat=132&ord=rating **Other Icons**
+- [**Other Icons**](https://github.com/thep0y/fcitx5-themes-candlelight)
 - https://codeberg.org/waleslau/fcitx5-themes **Fcitx5 Themes**
 - https://www.pling.com/p/2300466 **Cursor Theme**
 - https://www.gnome-look.org/p/2106821 **Plymouth Themes**
