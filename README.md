@@ -10,3 +10,7 @@ things that I need
 - https://www.gnome-look.org/browse?cat=135&ord=rating **GTK Themes**
 - https://liquorix.net/ Liquorix Kernel
 - **Arch IME** move Enironment to */etc/*
+##### Parameter 
+with 'sudo nano /boot/limine.conf' \
+or 'sudo nano /etc/default/grub'
+nvme_core.default_ps_max_latency_us=0
