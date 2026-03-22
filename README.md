@@ -13,7 +13,7 @@ things that I need
 - [**Liquorix Kernel**](https://liquorix.net/)
 - **Arch IME** move Environment to `/etc/` using `sudo cp -r /home/ziyue/下载/environment /etc/`
 ##### Parameter 
-with `sudo nano /boot/limine.conf` \
+with `sudo nano /boot/limine.conf` and `sudo nano /etc/default/limine` \
 or `sudo nano /etc/default/grub` \
 CMDLINE: `nvme_core.default_ps_max_latency_us=0`
 #### Cosmic Theme
