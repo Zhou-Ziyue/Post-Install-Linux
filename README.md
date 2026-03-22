@@ -13,4 +13,4 @@ things that I need
 ##### Parameter 
 with `sudo nano /boot/limine.conf` \
 or `sudo nano /etc/default/grub` \
-nvme_core.default_ps_max_latency_us=0
+CMDLINE: `nvme_core.default_ps_max_latency_us=0`
