@@ -8,7 +8,7 @@ things that I need
 - https://github.com/witt-bit/applePingFangFonts **Fonts**
 - https://github.com/zquestz/plank-reloaded **Plank Reloaded**
 - https://www.gnome-look.org/browse?cat=135&ord=rating **GTK Themes**
-- https://liquorix.net/ Liquorix Kernel
+- https://liquorix.net/ **Liquorix Kernel**
 - **Arch IME** move Enironment to */etc/*
 ##### Parameter 
 with `sudo nano /boot/limine.conf` \
