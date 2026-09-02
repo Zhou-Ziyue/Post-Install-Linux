@@ -31,4 +31,4 @@ Upload cosmic theme then set *gaps around the tiled window*: **6**
 - [**Violentmonkey**](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
 - [**Malus**](https://chromewebstore.google.com/detail/malus-vpn-the-only-offici/bdlcnpceagnkjnjlbbbcepohejbheilk)
 - [**AutoClean Pro**](https://chromewebstore.google.com/detail/autoclean-pro/fcgdbfpkknmkophjdffbbkcefmokekdm)
-- [**PassWall**](https://chromewebstore.google.com/detail/passwall-free-password-ma/blaiihhmnjllkfnkmkidahhegbmlghmo)
+- [**BitWarden**](https://chromewebstore.google.com/detail/bitwarden-password-manage/nngceckbapebfimnlniiiahkandclblb)
